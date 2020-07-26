@@ -40,8 +40,6 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -57,10 +55,10 @@ A few key items:
 * Less overhead using struct for data
 * Motion analysis asset (can be shared and replaced at runtime)
 * No need to setup skeleton again if adding or removing animations
-* Motion analysis is a process separated from the character setup
+* Motion analysis is a separated process from the character setup
 
 
-Of course, the project is not perfect and neither will it be the ideal solution for all cases, but it is an excellent starting point for making your personal adjustments according to the needs of your project. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+Of course, the project is not perfect neither it will be the ideal solution for all cases, but it is an excellent starting point for making your personal adjustments according to the needs of your project. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
 ### Built With
 This project was built using:
